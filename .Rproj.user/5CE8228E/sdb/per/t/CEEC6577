@@ -1,0 +1,29 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1495624586840.000,
+    "dirty" : false,
+    "encoding" : "",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "CEEC6577",
+    "lastKnownWriteTime" : 2,
+    "last_content_update" : 1495624586840,
+    "path" : null,
+    "project_path" : null,
+    "properties" : {
+        "cacheKey" : "929D1CEC",
+        "caption" : "S3",
+        "contentUrl" : "grid_resource/gridviewer.html?env=&obj=S3&cache_key=929D1CEC",
+        "displayedObservations" : "64",
+        "environment" : "",
+        "object" : "S3",
+        "preview" : "0",
+        "totalObservations" : "64",
+        "variables" : "27"
+    },
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_dataframe"
+}
